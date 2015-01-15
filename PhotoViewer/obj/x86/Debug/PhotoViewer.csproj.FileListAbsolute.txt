@@ -1,0 +1,12 @@
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.exe
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\bin\Debug\PhotoViewer.pdb
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.Form1.resources
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.Properties.Resources.resources
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.csproj.GenerateResource.Cache
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.exe
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.pdb
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.csprojResolveAssemblyReference.cache
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.NavigateListView.resources
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.PictureComing.resources
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.Toolbox.resources
+F:\12软工5\140916_Visual_Studio\Save\PhotoViewer\PhotoViewer\obj\x86\Debug\PhotoViewer.SlideShow.resources
